@@ -26,3 +26,5 @@ Converts and sqlite database to XSD.
  Example:
  sqlite2xml('home/Documents/sqlite/database.db', 'home/Documents/XML/output.xsd')
  Types will need to be changed and foreign keys will need to be added for xsd.
+
+[![View Sqlite2XML on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/94750-sqlite2xml)
